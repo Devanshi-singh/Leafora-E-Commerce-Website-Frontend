@@ -20,7 +20,7 @@
 ## 🚀 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript  
-- **Design**: Custom UI + Responsive Layout  
+- **Design**: Custom UI + Responsive Layout 
 
 ---
 
