@@ -9,7 +9,7 @@
 - 🛍️ Seamless Book Browsing and Shopping Experience  
 - 🔍 Search by Genre, Title, or Author  
 - 📦 Add to Cart & Checkout System  
-- 🧾 Latest Blogs on Reading, Global Book Activities, and More  
+- 🧾 Latest Blogs on Reading, Global Book Activities, and More 
 - 📚 Popular & Featured Collections Section  
 - 🎉 Promotional Offers (e.g., 50% Off Deals!)  
 - 🌐 Responsive Design for All Devices
